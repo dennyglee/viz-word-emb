@@ -11,4 +11,5 @@ This repository contain various scripts, references, and datasets to help visual
   * `word_to_embedding_bar_graph.py`: Finds word embedding of a given word from Glove 6B 50d, scales the values, and plots it as a  1 row 50D (cell) bar graph
     *  Usage: `python3 word_to_embedding_bar_graph.py cycling`  
 
+    <img src="https://github.com/dennyglee/viz-word-emb/blob/main/images/static/visualize-text-embeddings.png" width="500">
 
