@@ -43,6 +43,7 @@ word_embedding = sklearn.preprocessing.minmax_scale(word_vectors[word_text])
 
 #
 # Plot word embedding by bar graph
+#  Attribution: https://stackoverflow.com/questions/68341121/visualizing-1d-data-with-color-using-matplotlib# 
 #
 
 # Reshape word_embedding
