@@ -7,6 +7,8 @@
 # The used in this sample is the glove.6B.zip file
 #
 
+# Attribution: https://radimrehurek.com/gensim/scripts/glove2word2vec.html
+
 from gensim.test.utils import datapath, get_tmpfile
 from gensim.models import KeyedVectors
 from gensim.scripts.glove2word2vec import glove2word2vec
